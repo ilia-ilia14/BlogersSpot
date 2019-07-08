@@ -5,6 +5,12 @@ namespace App\Http\Controllers;
 use App\Post;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
+
+/*
+ * Controller for the Post
+ * This enables users to create store update
+ * delete new and existing posts.
+ */
 class PostsController extends Controller
 {
     public function __construct()

@@ -5,6 +5,10 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
+/*
+ * Controller for the pages that doesn't
+ * require authentification
+ */
 class PagesController extends Controller
 {
 

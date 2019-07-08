@@ -4,6 +4,9 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
+/*
+ * Model for the post
+ */
 class Post extends Model
 {
     //
