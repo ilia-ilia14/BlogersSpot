@@ -10,4 +10,4 @@ Instructions:
     Start XAMPP MySQL & Apache<br>
     Import MySQL database (available in SQL folder)<br>
     If there is an error during import, change database name to tailor for your hosting.
-    Set database name, user and password in .env file
+    Set database name, user and password in .env file<br>
