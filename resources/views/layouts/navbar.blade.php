@@ -9,7 +9,7 @@
 <nav class="navbar navbar-expand-md navbar-dark bg-dark">
     <a class="navbar-brand" href="/BlogersSpot/public">{{config('app.name', 'LarvelProject')}}</a>
 
-    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    <div class=" navbar-collapse d-flex flex-column flex-md-row align-items-center "  id="navbarsExampleDefault">
         <ul class="navbar-nav ml-auto">
             <!-- Authentication Links -->
             @guest

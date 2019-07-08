@@ -24,11 +24,17 @@
         }
         .footer
         {
-            position: absolute;
+            margin-top: 24%;
             left: 0;
             bottom: 0;
             width: 100%;
             overflow: hidden;
+        }
+        @media (min-width: 400px) {
+            .btn-space {
+                margin-right: 8px;
+                margin-bottom: 5px;
+            }
         }
     </style>
 </head>
